@@ -451,5 +451,17 @@ li .description {
 	}
 	}
 
+	#photo {
+		border-radius: 50%;
+	}
+
+	.sublead {
+		font-size: 22px;
+		font-weight: 150;
+		margin-top: 30px;
+		line-height: 22px;
+	}
+	
+	
 
 /* End of all :P*/
