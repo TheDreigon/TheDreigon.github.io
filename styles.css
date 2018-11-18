@@ -106,11 +106,13 @@ h1.name {
 	font-size: 70px;
 	font-weight: 300;
 	display: inline-block;
+	align-self: auto;
 }
 
 .job-title {
 	vertical-align: top;
-	background-color:white;
+	align-self: auto;
+	background-color: #EEF0F7;
 	color: #4A90E2;
 	font-weight: 600;
 	margin-top: 5px;
@@ -122,7 +124,7 @@ h1.name {
 
 .email {
 	display: block;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 300;
 	color: #81899C;
 	margin-top: 10px;
@@ -130,7 +132,7 @@ h1.name {
 
 .linkedin {
 	display: block;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 300;
 	color: #81899C;
 	margin-top: 10px;
