@@ -106,17 +106,17 @@ h1.name {
 
 .job-title {
 	vertical-align: top;
-	background-color: #D9E7F8;
-	color: #4A90E2;
+	background-color:darkred;
+	color: black;
 	font-weight: 600;
 	margin-top: 5px;
 	margin-left: 20px;
 	border-radius: 5px;
-	display: inline-block;
+	display: inline-flex;
 	padding: 15px 25px;
 }
 
-.email {
+.contact-info {
 	display: block;
 	font-size: 24px;
 	font-weight: 300;
@@ -462,6 +462,6 @@ li .description {
 		line-height: 22px;
 	}
 	
-	
+
 
 /* End of all :P*/
