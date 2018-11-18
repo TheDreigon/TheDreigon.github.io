@@ -120,12 +120,12 @@ h1.name {
 	font-size: 68px;
 	font-weight: 300;
 	display: inline-block;
-	text-align: right;
+	text-align: center;
 }
 
 .job-title {
 	vertical-align: top;
-	align-self: flex-end;
+	align-self: auto;
 	background-color: #EEF0F7;
 	color: #4A90E2;
 	font-weight: 600;	
@@ -133,7 +133,7 @@ h1.name {
 	margin-left: 20px;
 	border-radius: 5px;
 	display: inline-block;
-	text-align: right;
+	text-align: center;
 	padding: 15px 25px;
 }
 
