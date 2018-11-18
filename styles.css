@@ -94,7 +94,7 @@ div , footer {
 }
 
 .hero {
-	margin: 40px auto; 
+	margin: 20px auto; 
 	position: relative;
 }
 
@@ -115,8 +115,6 @@ div , footer {
 	margin: 40px auto;
 	text-align: center;
 }
-
-
 
 h1.name {
 	font-size: 68px;
