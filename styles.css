@@ -119,12 +119,12 @@ div , footer {
 h1.name {
 	font-size: 68px;
 	font-weight: 300;
-	
+	display: block;
 	text-align: right;
 }
 
 .job-title {
-	vertical-align: top;
+	
 	align-self: center;
 	background-color: #EEF0F7;
 	color: #4A90E2;
@@ -132,7 +132,7 @@ h1.name {
 	margin-top: 5px;
 	margin-left: 20px;
 	border-radius: 5px;
-	
+	display: block;
 	text-align: center;
 	padding: 15px 25px;
 }
