@@ -102,11 +102,15 @@ div , footer {
 	border-radius: 50%;
 }
 
+#namejob {
+	
+}
+
 h1.name {
-	font-size: 70px;
+	font-size: 68px;
 	font-weight: 300;
-	display: inline-block;
-	align-self: auto;
+	display: inline-flex;
+	text-align: right;
 }
 
 .job-title {
@@ -118,7 +122,7 @@ h1.name {
 	margin-top: 5px;
 	margin-left: 20px;
 	border-radius: 5px;
-	display: inline-block;
+	display: inline-flex;
 	padding: 15px 25px;
 }
 
