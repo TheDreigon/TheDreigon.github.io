@@ -113,7 +113,7 @@ h1.name {
 
 .job-title {
 	vertical-align: top;
-	align-self: auto;
+	align-self: flex-end;
 	background-color: #EEF0F7;
 	color: #4A90E2;
 	font-weight: 600;	
@@ -152,7 +152,7 @@ h1.name {
 .sublead {
 	font-size: 20px;
 	font-weight: 150;
-	color: #4A90E2;
+	color: red;
 	margin-top: 30px;
 	line-height: 22px;
 }
