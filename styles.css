@@ -119,8 +119,9 @@ div , footer {
 h1.name {
 	font-size: 68px;
 	font-weight: 300;
-	display: inline-block;
+	
 	text-align: right;
+	float: right;
 }
 
 .job-title {
@@ -132,7 +133,7 @@ h1.name {
 	margin-top: 5px;
 	margin-left: 20px;
 	border-radius: 5px;
-	display: inline-block;
+	
 	text-align: center;
 	padding: 15px 25px;
 }
