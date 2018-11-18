@@ -114,7 +114,7 @@ h1.name {
 	align-self: auto;
 	background-color: #EEF0F7;
 	color: #4A90E2;
-	font-weight: 600;
+	font-weight: 600;	
 	margin-top: 5px;
 	margin-left: 20px;
 	border-radius: 5px;
@@ -136,6 +136,7 @@ h1.name {
 	font-weight: 300;
 	color: #81899C;
 	margin-top: 10px;
+	text-decoration: none;
 }
 
 .academialead {
