@@ -103,7 +103,11 @@ div , footer {
 	border-radius: 50%;
 }
 
-
+.sublead {
+	max-width: 1100px;
+	height: auto;
+	margin: 60px auto;
+}
 
 h1.name {
 	font-size: 68px;
