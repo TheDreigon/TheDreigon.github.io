@@ -85,7 +85,7 @@ div , footer {
 /* Reset ends */
 
 
-/*Hero section*/
+/*Intro section*/
 
 .container {
 	max-width: 1100px;
@@ -100,27 +100,32 @@ div , footer {
 
 #photo {
 	border-radius: 50%;
+	margin: 50px auto; 
+	position: relative;
 }
 
 .academialead {
 	max-width: 1100px;
 	height: auto;
-	margin: 60px auto;
+	margin: 40px auto;
 	text-align: left;
 }
 
 .sublead {
 	max-width: 1100px;
 	height: auto;
-	margin: 60px auto;
+	margin: 40px auto;
 	text-align: center;
 }
+
+
 
 h1.name {
 	font-size: 68px;
 	font-weight: 300;
 	display: inline-block;
 	text-align: right;
+	margin: 50px auto; 
 }
 
 .job-title {
@@ -129,8 +134,7 @@ h1.name {
 	background-color: #EEF0F7;
 	color: #4A90E2;
 	font-weight: 600;	
-	margin-top: 5px;
-	margin-left: 20px;
+	margin: 50px auto; 
 	border-radius: 5px;
 	display: inline-block;
 	text-align: right;
@@ -170,7 +174,7 @@ h1.name {
 	line-height: 22px;
 }
 
-/*hero ends*/
+/*Intro ends*/
 
 /*skills & intrests*/
 
