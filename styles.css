@@ -153,6 +153,14 @@ h1.name {
 	text-decoration: none;
 }
 
+.github {
+	display: block;
+	font-size: 18px;
+	font-weight: 300;
+	color: #81899C;
+	text-decoration: none;
+}
+
 .academialead {
 	font-size: 33px;
 	font-weight: 300;
