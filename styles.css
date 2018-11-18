@@ -106,26 +106,34 @@ h1.name {
 
 .job-title {
 	vertical-align: top;
-	background-color:darkred;
-	color: black;
+	background-color:white;
+	color: #4A90E2;
 	font-weight: 600;
 	margin-top: 5px;
 	margin-left: 20px;
 	border-radius: 5px;
-	display: inline-flex;
+	display: inline-block;
 	padding: 15px 25px;
 }
 
-.contact-info {
+.email {
 	display: block;
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 300;
 	color: #81899C;
 	margin-top: 10px;
 }
 
-.lead {
-	font-size: 44px;
+.linkedin {
+	display: block;
+	font-size: 20px;
+	font-weight: 300;
+	color: #81899C;
+	margin-top: 10px;
+}
+
+.academialead {
+	font-size: 38px;
 	font-weight: 300;
 	margin-top: 60px;
 	line-height: 55px;
