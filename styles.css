@@ -94,7 +94,7 @@ div , footer {
 }
 
 .hero {
-	margin: 50px auto; 
+	margin: 40px auto; 
 	position: relative;
 }
 
@@ -152,7 +152,6 @@ h1.name {
 	font-size: 18px;
 	font-weight: 300;
 	color: #81899C;
-	margin-top: 10px;
 	text-decoration: none;
 }
 
